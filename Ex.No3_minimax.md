@@ -93,7 +93,7 @@ values = [3, 5, 6, 9, 1, 2, 0, -1]
 ```
 ### Output:
 
-
+![](
 
 ### Result:
 Thus the optimum value of max player was found using minimax search.
