@@ -1,4 +1,4 @@
-![Screenshot 2024-02-12 161900](https://github.com/vijayganeshn96/AI_Lab_2023-24/assets/103403571/75996cde-960e-4e19-bd43-ba352d597823)# Ex.No: 2  Implementation of Depth First Search
+# Ex.No: 2  Implementation of Depth First Search
 ### DATE: 19-02-2024                                                                           
 ### REGISTER NUMBER : 212221040177
 ### AIM: 
