@@ -30,9 +30,10 @@ To write a python program to implement Depth first Search.
             dfs(visited, graph, neighbour)
  print("Following is the Depth-First Search")
  dfs(visited, graph, '5')
+```
 
 ### Output:
-![Screenshot 2024-02-12 160946](https://github.com/vijayganeshn96/AI_Lab_2023-24/assets/103403571/4695e118-f358-40de-aa86-ccacf4d9afd2)
+![Screenshot 2024-02-12 160946](https://github.com/vijayganeshn96/AI_Lab_2023-24/assets/103403571/4ff589ed-4dbb-4233-a676-43f46c1e4edd)
 
 ### Result:
 Thus the depth first search order was found sucessfully.
